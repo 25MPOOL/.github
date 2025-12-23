@@ -1,12 +1,15 @@
 ## 👥メンバー
-<a href="https://github.com/nka21" rel="noopener noreferrer" target="_blank">
-  <img width=100 src="https://github.com/nka21.png">
+<a href="https://github.com/nkoji21" rel="noopener noreferrer" target="_blank">
+  <img width=100 src="https://github.com/nkoji21.png">
 </a>
 <a href="https://github.com/miyakoshi-3854" rel="noopener noreferrer" target="_blank">
   <img width=100 src="https://github.com/miyakoshi-3854.png">
 </a>
 <a href="https://github.com/ika-2-2" rel="noopener noreferrer" target="_blank">
   <img width=100 src="https://github.com/ika-2-2.png">
+</a>
+<a href="https://github.com/koji18" rel="noopener noreferrer" target="_blank">
+  <img width=100 src="https://github.com/koji18.png">
 </a>
 
 ## ⛏️活動履歴
